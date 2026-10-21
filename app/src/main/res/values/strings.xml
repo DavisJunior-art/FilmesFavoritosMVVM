@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Filmes Favoritos</string>
+    <string name="movie_photo_description">Foto do filme</string>
+    <string name="movie_photo_preview">Prévia da foto do filme</string>
+    <string name="edit_movie_title">Editar filme</string>
+    <string name="cancel">Cancelar</string>
+    <string name="save_changes">Salvar alterações</string>
+    <string name="name_required">Digite o nome do filme</string>
+    <string name="rating_invalid">Informe uma nota entre 0 e 10</string>
+    <string name="photo_url_invalid">Informe uma URL válida para a foto</string>
+    <string name="movie_updated">Filme atualizado</string>
+    <string name="rating_format">★ %1$.1f / 10</string>
+    <plurals name="movie_count">
+        <item quantity="one">1 filme na sua coleção</item>
+        <item quantity="other">%d filmes na sua coleção</item>
+    </plurals>
+</resources>
